@@ -1,4 +1,4 @@
-module github/alex83d/go_example
+module github/alex83d/go_echo
 
 go 1.18
 
